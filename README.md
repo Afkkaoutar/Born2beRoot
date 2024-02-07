@@ -1,1 +1,1 @@
-![Alt text](borntoBeroot.pnj)
+![My Image](borntoBeroot.pnj)
